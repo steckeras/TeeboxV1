@@ -667,7 +667,8 @@ body, html {
       display: none;
     }
     .footer{
-      grid-area: foot;
+      height: auto;
+      width: 100%;
     }
 
     .containerOther2{
@@ -707,10 +708,6 @@ body, html {
     .body1menu{
       display: flex;
       height: 60%;
-    }
-
-    .footer{
-      width: 100%;
     }
 
     .altheadimage{
